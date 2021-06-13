@@ -1,0 +1,4 @@
+export const environment = {
+  ApiUrl:"http://localhost:5000/",
+  production: true
+};
